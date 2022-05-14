@@ -5,4 +5,5 @@
 		return (a+b)/2;
 	}
 
+	function srednia_wazona
 ?>
